@@ -6,7 +6,7 @@ sidebar_label: How to Stake Your Dots
 
 ## How to do staking in Polkadot?
 
-Content here
+Content here Got it, content here!!!
 
 ### Ivan's proposal for the layout of the document
 
