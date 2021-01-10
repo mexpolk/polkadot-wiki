@@ -6,7 +6,18 @@ sidebar_label: How to Stake Your Dots
 
 ## How to do staking in Polkadot?
 
-Content here
+Polkadot recommends to use the polkadot.js browser extension to create staking adresses.
+Staking is supported bij Ledger Nano X/S, so there will also be a guide for that.
+
+Step 1. Installing Polkadot.js browser extension
+
+https://polkadot.js.org/extension/ (Download it for Chrome or Firefox)
+
+You will now see the orange Polkadot logo top right. Click on it and proceed
+
+Step 2. Creating a new account
+
+
 
 ### Ivan's proposal for the layout of the document
 
